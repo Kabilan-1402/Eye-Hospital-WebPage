@@ -527,7 +527,11 @@ ul {
 .doctorsSection .custom-media .italic-ptag {
   font-style: italic;
   font-size: 15px;
+<<<<<<< HEAD
   color: #898989;
+=======
+  color: #bababa;
+>>>>>>> fe5127ce4577cd99a855411367b94089f1e03792
   margin-bottom: 20px;
   line-height: 22px;
 }
@@ -546,7 +550,11 @@ ul {
 }
 
 .facilities {
+<<<<<<< HEAD
   padding: 40px 20px;
+=======
+  padding: 70px 20px;
+>>>>>>> fe5127ce4577cd99a855411367b94089f1e03792
   background: #f7f9fb;
 }
 .facilities img {
@@ -655,7 +663,11 @@ ul {
 
 .questionSection {
   background-color: #fff;
+<<<<<<< HEAD
   padding: 0px 0 40px;
+=======
+  padding: 70px 0 60px;
+>>>>>>> fe5127ce4577cd99a855411367b94089f1e03792
 }
 .questionSection .faq-button {
   width: 100%;
